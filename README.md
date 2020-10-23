@@ -1,4 +1,4 @@
-This project is created by Jenny Miderkvist and can be found live at netlify [click here](https://www.quora.com)
+This project is created by Jenny Miderkvist and can be found live at netlify [reddit-clone-jennymid.netlify.app](reddit-clone-jennymid.netlify.app)
 
 ## Reddit-clone
 
