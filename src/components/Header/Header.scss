@@ -1,0 +1,15 @@
+.main-header {
+    background-color: #282c34;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    font-size: calc(10px + 2vmin);
+    color: white;
+    padding: 1em;
+    
+    
+  }
+  .main-header-options{
+    justify-content: flex-end;
+  }
+  

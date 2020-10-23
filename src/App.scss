@@ -1,0 +1,65 @@
+.app-content {
+  background-color: #C9CCD3;
+
+  .option-bar{
+    display: flex;
+    justify-content: space-between;
+    padding:1em;
+
+    .option-buttons{
+      display: flex;
+
+      .option-btn{
+        padding-right: 0.5em;
+      }
+    }
+    .search-content{
+      justify-content: flex-end;
+      display: flex;
+  
+      .search-box{
+        padding-right: 1em;
+  
+        input{
+          height: 2.4em;
+          padding-left: 1em;
+        }
+      }
+    }
+  }
+}
+
+main{
+  flex-direction: column;
+  grid-area: content;
+  margin-top: 3em;
+  margin-left: 10em;
+  margin-right: 10em;
+  margin-bottom: 3em;
+
+  .app-btn-container{
+    display: table;
+    margin: 0 auto;
+
+    .app-content-btn{
+      display: flex;
+      padding-top: 1em;
+  
+      .content-btn{
+        padding-right: 2em;
+        display: flex;
+      }
+      Button{
+        padding: 0.5em;
+        width: 7.5em;
+      }
+    }
+  }
+}
+
+.footer-text{
+  background-color: #E2E4E8;
+  padding: 1em;
+  justify-content: center;
+  display: flex;
+}
