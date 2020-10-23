@@ -1,4 +1,4 @@
-This project is created by Jenny Miderkvist and can be found live at netlify <br />
+This project is created by Jenny Miderkvist and can be found live at netlify: <br />
 [reddit-clone-jennymid.netlify.app](https://reddit-clone-jennymid.netlify.app)
 
 ## Reddit-clone
